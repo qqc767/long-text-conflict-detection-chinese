@@ -2,4 +2,4 @@
 DeBERTa-v3-base-mnli-fever-anli：https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
 opus-mt-zh-en：https://huggingface.co/Helsinki-NLP/opus-mt-zh-en
 all-MiniLM-L6-v2：https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
-将这三个模型下载好泓放在models目录中
+将这三个模型下载好放在models目录中
